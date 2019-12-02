@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1575236524161,
+  "timestamp": 1575321009601,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.07601bbf64d0e65ba8de.js",
-        "/main-es5.07601bbf64d0e65ba8de.js",
+        "/main-es2015.a3d0ca586d8cff43f032.js",
+        "/main-es5.a3d0ca586d8cff43f032.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.2987770fde9daa1d8a2e.js",
         "/polyfills-es5.ef4b1e1fc703b3ff76e3.js",
@@ -53,9 +53,9 @@
     "/assets/sprites/blastoise.png": "f9e498162c47d6696167277f1bd7f46f3a7cc4a1",
     "/assets/styles/reset.scss": "861cb4c4b34e72c0cf7885296a269cde9f50f825",
     "/favicon.ico": "59a64b0ecafaa7e563ebf5f333dadf581d8aef8d",
-    "/index.html": "3bed39412f7128849718947148d7572f563141bf",
-    "/main-es2015.07601bbf64d0e65ba8de.js": "dbeceae53abdd263810e3bb41eacb2620b4e9a09",
-    "/main-es5.07601bbf64d0e65ba8de.js": "a8e6e8210e0acbcd97e90fe6a0bd8c771ab6aa8b",
+    "/index.html": "f42418d36c9102a90952211e8d47586df3ba5c3f",
+    "/main-es2015.a3d0ca586d8cff43f032.js": "f558d4b748d4f872aa1dac71aea4b1d07329e037",
+    "/main-es5.a3d0ca586d8cff43f032.js": "d70f36f36cb1d6cd3dd2a5518721bd8b359b9f7a",
     "/manifest.webmanifest": "b37cf5fe2438d4defc622d9563c9961cc8b24abf",
     "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/polyfills-es5.ef4b1e1fc703b3ff76e3.js": "45c51483238468881240579c3fdecd19144cff17",
