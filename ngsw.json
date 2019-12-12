@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576105056443,
+  "timestamp": 1576184362381,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.d6feede77a360002ff66.js",
-        "/main-es5.d6feede77a360002ff66.js",
+        "/main-es2015.fb5034e65a619fd41d75.js",
+        "/main-es5.fb5034e65a619fd41d75.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.2987770fde9daa1d8a2e.js",
         "/polyfills-es5.ef4b1e1fc703b3ff76e3.js",
@@ -91,9 +91,9 @@
     "/assets/sprites/sprite-stella.png": "fb7394660f8512aab2c19a754fc86990019fca7d",
     "/assets/styles/reset.scss": "861cb4c4b34e72c0cf7885296a269cde9f50f825",
     "/favicon.ico": "59a64b0ecafaa7e563ebf5f333dadf581d8aef8d",
-    "/index.html": "290fd5f5e8949b428bde09c2d623852de3abf0d5",
-    "/main-es2015.d6feede77a360002ff66.js": "45053500cbcb82da1fd2d850b7361a727fcb42bb",
-    "/main-es5.d6feede77a360002ff66.js": "06a4cd2cc17f328732977ce4ac8ae07a578a6d2c",
+    "/index.html": "4ad6cd246986f1b96869ad763cef65746a8bedd1",
+    "/main-es2015.fb5034e65a619fd41d75.js": "dbec52b136b72f8bcd86f6154334befb4f64aae3",
+    "/main-es5.fb5034e65a619fd41d75.js": "0070bb166db8e486511bfc558745f38fc890d44c",
     "/manifest.webmanifest": "b37cf5fe2438d4defc622d9563c9961cc8b24abf",
     "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/polyfills-es5.ef4b1e1fc703b3ff76e3.js": "45c51483238468881240579c3fdecd19144cff17",
