@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576265686235,
+  "timestamp": 1576266659114,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -26,6 +26,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/apple-touch-icon.png",
         "/assets/animations/animation-data-alma.json",
         "/assets/animations/animation-data-anna.json",
         "/assets/animations/animation-data-dana.json",
@@ -54,13 +55,16 @@
         "/assets/sprites/sprite-jill.png",
         "/assets/sprites/sprite-sei.png",
         "/assets/sprites/sprite-stella.png",
-        "/assets/styles/reset.scss"
+        "/assets/styles/reset.scss",
+        "/favicon-16x16.png",
+        "/favicon-32x32.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/apple-touch-icon.png": "7480ca7649c52a96471b95c161790ab711ed7eef",
     "/assets/animations/animation-data-alma.json": "16aff1f4de371378465953a3862f4ec5a713d377",
     "/assets/animations/animation-data-anna.json": "f5f26aba451593c8c3f0c9011d94a19097aa148f",
     "/assets/animations/animation-data-dana.json": "91757400ce1cb77326cdbe609b797a616816d168",
@@ -71,14 +75,14 @@
     "/assets/animations/animation-sprite-dana.png": "8df891784f813c0487570fc33d667229322518d7",
     "/assets/animations/animation-sprite-jill.png": "c0bc4a17d362638d0c1a2eb69d4440cd0fb90866",
     "/assets/animations/animation-sprite-stella.png": "f74be6598c743979adf6820ce07e47b236d2a956",
-    "/assets/icons/icon-128x128.png": "0fe155e74e3562717a786097d4b4aa6dec4c54da",
-    "/assets/icons/icon-144x144.png": "a3bc6a794e951765aaa4160ed0e14e0c21462117",
-    "/assets/icons/icon-152x152.png": "f8f3085e681aacb28ea9f520d4b006886b6f4336",
-    "/assets/icons/icon-192x192.png": "573c288d40c225be79703d36f22e7b516f369dfe",
-    "/assets/icons/icon-384x384.png": "170ecedb9a2b09e74c5d9b255873e17192e4df69",
-    "/assets/icons/icon-512x512.png": "8ad04840627937435efa138d6d732d1967753d13",
-    "/assets/icons/icon-72x72.png": "56063fc73046f94c11d9dfe0863a9d2502c7baaf",
-    "/assets/icons/icon-96x96.png": "9689f291a7c706e05259ba198c1c5ab7335317ff",
+    "/assets/icons/icon-128x128.png": "fd62deb8cd6d2137933e71f83157e9ccdb107fdf",
+    "/assets/icons/icon-144x144.png": "80fa3b446ef729a6a60a5a9e1ae4348f0f7692eb",
+    "/assets/icons/icon-152x152.png": "0f658a1144c2144e8e83f531e75d2e1ba559b6a5",
+    "/assets/icons/icon-192x192.png": "52f88550d0d9335361942cf0db33c8c8f362cb49",
+    "/assets/icons/icon-384x384.png": "fc2a99ce18d87cd0eb144ed19fa7f001b99d4771",
+    "/assets/icons/icon-512x512.png": "4cf1845e89355b7b3e663051a51bf58bd55e9b3d",
+    "/assets/icons/icon-72x72.png": "5cbf1a919249a60fd45c512f27601ae0a35bdbc7",
+    "/assets/icons/icon-96x96.png": "6dd5bf2f61e5990fc16ed89e20f76a67fbc14ef8",
     "/assets/sprites/sprite-alma.png": "2fbc6dfe9451d2e2990079d25f4d8679252678e8",
     "/assets/sprites/sprite-anna.png": "ef92c6f2d76f2d9150b9950a24d3aa1a8a0b46d1",
     "/assets/sprites/sprite-betty.png": "ab32e45f1babd7bfe9776ca321f65d8c3d3c1664",
@@ -90,6 +94,8 @@
     "/assets/sprites/sprite-sei.png": "c39846c70f1802baece708c14728e1b3192ec01c",
     "/assets/sprites/sprite-stella.png": "fb7394660f8512aab2c19a754fc86990019fca7d",
     "/assets/styles/reset.scss": "861cb4c4b34e72c0cf7885296a269cde9f50f825",
+    "/favicon-16x16.png": "216f60956cb415196a8d1883182332bb58a34cd8",
+    "/favicon-32x32.png": "593d3d898deac6dfed7c03df7a299b43bea9262c",
     "/favicon.ico": "88b7be9a122896ce3ed7111a3cf9417b30b59d5d",
     "/index.html": "8181ab530cc4f4c7ae3304540ce5e725d5e9179f",
     "/main-es2015.3b4842750e0a8b464646.js": "48925c9ff4b7075caae67aabcb98d51190188f3b",
