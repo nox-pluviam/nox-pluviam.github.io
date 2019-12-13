@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576185761153,
+  "timestamp": 1576265686235,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.fb5034e65a619fd41d75.js",
-        "/main-es5.fb5034e65a619fd41d75.js",
+        "/main-es2015.3b4842750e0a8b464646.js",
+        "/main-es5.3b4842750e0a8b464646.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.2987770fde9daa1d8a2e.js",
         "/polyfills-es5.ef4b1e1fc703b3ff76e3.js",
         "/runtime-es2015.edb2fcf2778e7bf1d426.js",
         "/runtime-es5.edb2fcf2778e7bf1d426.js",
-        "/styles.a43d6aa6dd5d850e0b5f.css"
+        "/styles.1fbda365d0d97c33f0a5.css"
       ],
       "patterns": []
     },
@@ -71,14 +71,14 @@
     "/assets/animations/animation-sprite-dana.png": "8df891784f813c0487570fc33d667229322518d7",
     "/assets/animations/animation-sprite-jill.png": "c0bc4a17d362638d0c1a2eb69d4440cd0fb90866",
     "/assets/animations/animation-sprite-stella.png": "f74be6598c743979adf6820ce07e47b236d2a956",
-    "/assets/icons/icon-128x128.png": "ac90b7d08c324dc8dca383e3ecd168a020f1ec00",
-    "/assets/icons/icon-144x144.png": "17e780e02f7129043f8c7168649d332ba922891c",
-    "/assets/icons/icon-152x152.png": "784f2c0a4aa140edc78e6574c156e98c5d370c17",
-    "/assets/icons/icon-192x192.png": "9ad0a5cba794e3dc43d8a14e576f278e5ddd4ac1",
-    "/assets/icons/icon-384x384.png": "bf33499d219eb1c60ef693acf4e5dfe44c2176f8",
-    "/assets/icons/icon-512x512.png": "1d3870322303b3ac9f8410a09b52aca72dc0d713",
-    "/assets/icons/icon-72x72.png": "77760d6f00941813a978a18dc4a5c7a4264d6c49",
-    "/assets/icons/icon-96x96.png": "4163e5aaa24a09852d41b9298395729376841f52",
+    "/assets/icons/icon-128x128.png": "0fe155e74e3562717a786097d4b4aa6dec4c54da",
+    "/assets/icons/icon-144x144.png": "a3bc6a794e951765aaa4160ed0e14e0c21462117",
+    "/assets/icons/icon-152x152.png": "f8f3085e681aacb28ea9f520d4b006886b6f4336",
+    "/assets/icons/icon-192x192.png": "573c288d40c225be79703d36f22e7b516f369dfe",
+    "/assets/icons/icon-384x384.png": "170ecedb9a2b09e74c5d9b255873e17192e4df69",
+    "/assets/icons/icon-512x512.png": "8ad04840627937435efa138d6d732d1967753d13",
+    "/assets/icons/icon-72x72.png": "56063fc73046f94c11d9dfe0863a9d2502c7baaf",
+    "/assets/icons/icon-96x96.png": "9689f291a7c706e05259ba198c1c5ab7335317ff",
     "/assets/sprites/sprite-alma.png": "2fbc6dfe9451d2e2990079d25f4d8679252678e8",
     "/assets/sprites/sprite-anna.png": "ef92c6f2d76f2d9150b9950a24d3aa1a8a0b46d1",
     "/assets/sprites/sprite-betty.png": "ab32e45f1babd7bfe9776ca321f65d8c3d3c1664",
@@ -90,16 +90,16 @@
     "/assets/sprites/sprite-sei.png": "c39846c70f1802baece708c14728e1b3192ec01c",
     "/assets/sprites/sprite-stella.png": "fb7394660f8512aab2c19a754fc86990019fca7d",
     "/assets/styles/reset.scss": "861cb4c4b34e72c0cf7885296a269cde9f50f825",
-    "/favicon.ico": "59a64b0ecafaa7e563ebf5f333dadf581d8aef8d",
-    "/index.html": "4ad6cd246986f1b96869ad763cef65746a8bedd1",
-    "/main-es2015.fb5034e65a619fd41d75.js": "dbec52b136b72f8bcd86f6154334befb4f64aae3",
-    "/main-es5.fb5034e65a619fd41d75.js": "0070bb166db8e486511bfc558745f38fc890d44c",
+    "/favicon.ico": "88b7be9a122896ce3ed7111a3cf9417b30b59d5d",
+    "/index.html": "8181ab530cc4f4c7ae3304540ce5e725d5e9179f",
+    "/main-es2015.3b4842750e0a8b464646.js": "48925c9ff4b7075caae67aabcb98d51190188f3b",
+    "/main-es5.3b4842750e0a8b464646.js": "1ed06fe07dc7d05c5dc24cec8ffe7a3cc18dafa2",
     "/manifest.webmanifest": "a96c2d20a8ca456ae4031d64a4a92c9a2c295b61",
     "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/polyfills-es5.ef4b1e1fc703b3ff76e3.js": "45c51483238468881240579c3fdecd19144cff17",
     "/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.a43d6aa6dd5d850e0b5f.css": "69569438a115137c9355432dcdaf49dd6b9c7224"
+    "/styles.1fbda365d0d97c33f0a5.css": "7b82870d12689c87d5470512fbe2b9de51771e8d"
   },
   "navigationUrls": [
     {
